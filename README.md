@@ -1,4 +1,4 @@
-# 🚀 Data Warehouse Analytics Project: Advanced Sales Intelligence
+# 🚀 Data Warehouse Analytics Project with SQL Server
 
 This project is a **complete end-to-end sql server reporting system** built for advanced **sales analytics, customer intelligence, and product performance insights**. It's structured to power BI dashboards, drive business decisions, and impress any data-driven stakeholder. 💡
 
